@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sondos Kocila</h1>
-<h3 align="center">A third-year Computer Science student at the University of Grenoble Alpes</h3>
+<h4 align="center">Passionately exploring the vast landscape of <a href="https://im2ag.univ-grenoble-alpes.fr/parcours-informatique-generale/licence-informatique-parcours-informatique-generale-111021.kjsp">Computer Science</a>, advancing through my third year at the University of Grenoble Alpes, France.</h4>
 <img align="right" alt="Hey" width="400" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sondos20&label=Profile%20views&color=0e75b6&style=flat" alt="sondos20" /> </p>
@@ -24,4 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sondos20&show_icons=true&locale=en" alt="sondos20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sondos20&" alt="sondos20" /></p>
+
 
