@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sondos20&label=Profile%20views&color=0e75b6&style=flat" alt="sondos20" /> </p>
 
 
-- 📫 How to reach me **sondos.kocila2022@gmail.com**
+- 📫 How to reach me **sondos.kocila2022@gmail.com**   ***sondos.kocila@etu.univ-grenoble-alpes.fr*
 
 - ⚡ Fun fact **In my world, the dojo and the keyboard are equally sacred spaces—eight years of karate discipline have taught me focus and determination, qualities I bring to every line of code I write.**
 
