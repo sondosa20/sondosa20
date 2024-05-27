@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sondos Kocila</h1>
+<h1 align="center">Hi 👋, I'm Sondos </h1>
 <h4 align="center">Passionately exploring the vast landscape of <a href="https://im2ag.univ-grenoble-alpes.fr/parcours-informatique-generale/licence-informatique-parcours-informatique-generale-111021.kjsp">Computer Science</a>, advancing through my third year at the University of Grenoble Alpes, France.</h4>
 <img align="right" alt="Hey" width="400" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
 
