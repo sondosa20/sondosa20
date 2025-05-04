@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sondos KOCILA</h1>
-<h4 align="center">Passionately diving into <a href="https://formations.univ-larochelle.fr/master-informatique-ingenierie-donnees#programme">Data Engineering</a> as a Master 1 student at the University of La Rochelle, exploring advanced databases, software engineering, and more <3.</h4>
+<h4 align="center">Passionately exploring <a href="https://formations.univ-larochelle.fr/master-informatique-ingenierie-donnees#programme">Data Engineering</a> as a Master 1 student at the University of La Rochelle, with hands-on experience in software engineering, data mining, data acquisition, advanced databases, and more ❤️.</h4>
 <img align="right" alt="Hey" width="400" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sondos20&label=Profile%20views&color=0e75b6&style=flat" alt="sondos20" /> </p>
 
-- 👀 I’m actively looking for a **data engineering or software development internship** to contribute and grow within a dynamic team.  
+- 🌍 Currently working as an intern at the <a href="https://l3i.univ-larochelle.fr/">L3i Laboratory</a>, tasked with analyzing and showcasing insights from La Rochelle University’s sustainable mobility surveys as part of the  <a href="https://bluebility.univ-lr.fr/">Bluebility project</a>. My role includes developing and integrating dynamic visualizations into the web site, using technologies like React and D3.js, and related technologies.
+
+- 👀 Actively looking for a **data engineering or software development apprenticeship** to contribute and grow within a dynamic team.  
 
 - 📫 How to reach me: **sondos.kocila@etudiant.univ-lr.fr**
 
-- ⚡ Fun fact: **Karate black belt 🥋, swimmer, and artist. I bring the same discipline and creativity to coding as I do to the dojo.**
+- ⚡ Fun fact: **Karate black belt 🥋. I bring the same discipline and creativity to coding as I do to the dojo.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sondos-kocila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sondos kocila" height="30" width="40" /></a>
-<a href="https://instagram.com/sondos__kocila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sondos__kocila" height="30" width="40" /></a>
+<a href="https://www.instagram.com/glowgorithms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sondos__kocila" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sondos_kocila201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sondos_kocila201" height="30" width="40" /></a>
 </p>
 
