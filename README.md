@@ -6,11 +6,11 @@
 
 - 🌍 Currently intern at the <a href="https://l3i.univ-larochelle.fr/">L3i Laboratory</a>, tasked with analyzing and showcasing insights from La Rochelle University’s sustainable mobility surveys as part of the  <a href="https://bluebility.univ-lr.fr/">Bluebility project</a>. My role includes developing and integrating dynamic visualizations into the web site, using technologies like React and D3.js, and related technologies.
 
-- 👀 Actively looking for a **data engineering or software development apprenticeship** to contribute and grow within a dynamic team.  
+- 👀 Actively looking for a <strong>data engineering</strong> or <strong>software development apprenticeship</strong> to contribute and grow within a dynamic team.  
 
-- 📧 Reach me at: **sondos.kocila@etudiant.univ-lr.fr**
+- 📧 Reach me at: <strong>sondos.kocila@etudiant.univ-lr.fr</strong>
 
-- ⚡Techie & Martial Artist: **I hold a black belt in karate 🥋.  In the dojo I learned discipline, in coding I apply it daily.**
+- ⚡Techie & Martial Artist: <strong>I hold a black belt in karate 🥋.  In the dojo I learned discipline, in coding I apply it daily.</strong>
 
 <h3 align="left">Let's connect!</h3>
 <p align="left">
@@ -62,4 +62,3 @@
   <img src="https://img.shields.io/badge/-Data%20Acquisition-lightgrey?style=flat" />
   <img src="https://img.shields.io/badge/-Association%20Rules-purple?style=flat" />
 </p>
--->
