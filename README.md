@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sondos20&label=Profile%20views&color=0e75b6&style=flat" alt="sondos20" /> </p>
 
-- 🌍 Currently working as an intern at the <a href="https://l3i.univ-larochelle.fr/">L3i Laboratory</a>, tasked with analyzing and showcasing insights from La Rochelle University’s sustainable mobility surveys as part of the  <a href="https://bluebility.univ-lr.fr/">Bluebility project</a>. My role includes developing and integrating dynamic visualizations into the web site, using technologies like React and D3.js, and related technologies.
+- 🌍 Currently intern at the <a href="https://l3i.univ-larochelle.fr/">L3i Laboratory</a>, tasked with analyzing and showcasing insights from La Rochelle University’s sustainable mobility surveys as part of the  <a href="https://bluebility.univ-lr.fr/">Bluebility project</a>. My role includes developing and integrating dynamic visualizations into the web site, using technologies like React and D3.js, and related technologies.
 
 - 👀 Actively looking for a **data engineering or software development apprenticeship** to contribute and grow within a dynamic team.  
 
-- 📫 How to reach me: **sondos.kocila@etudiant.univ-lr.fr**
+- 📧 Reach me at: **sondos.kocila@etudiant.univ-lr.fr**
 
-- ⚡ Fun fact: **Karate black belt 🥋. I bring the same discipline and creativity to coding as I do to the dojo.**
+- ⚡Techie & Martial Artist: **I hold a black belt in karate 🥋.  In the dojo I learned discipline, in coding I apply it daily.**
 
 <h3 align="left">Let's connect!</h3>
 <p align="left">
@@ -19,27 +19,47 @@
 <a href="https://www.hackerrank.com/sondos_kocila201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sondos_kocila201" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+<h3 align="left">Languages, Tools & Technologies:</h3>
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+
+  <!-- Data Visualization -->
+  <img src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Seaborn-4C6EB1?style=flat&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/-UML-000000?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Agile_Scrum-0052CC?style=flat&logo=agile&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CI/CD-555555?style=flat" />
+
+  <!-- Other Topics -->
+  <img src="https://img.shields.io/badge/-Data%20Mining-blue?style=flat" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-orange?style=flat" />
+  <img src="https://img.shields.io/badge/-Neural%20Networks-red?style=flat" />
+  <img src="https://img.shields.io/badge/-Data%20Warehousing-darkblue?style=flat" />
+  <img src="https://img.shields.io/badge/-Data%20Acquisition-lightgrey?style=flat" />
+  <img src="https://img.shields.io/badge/-Association%20Rules-purple?style=flat" />
 </p>
-
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sondos20&show_icons=true&locale=en&layout=compact" alt="sondos20" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sondos20&show_icons=true&locale=en" alt="sondos20" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sondos20&" alt="sondos20" /></p>
 -->
