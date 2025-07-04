@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sondos KOCILA</h1>
-<h4 align="center">Passionately exploring <a href="https://formations.univ-larochelle.fr/master-informatique-ingenierie-donnees#programme">Data Engineering</a> as a Master 1 student at the University of La Rochelle, with hands-on experience in both software and data engineering ❤️.</h4>
+<h4 align="center">Passionately exploring <a href="https://formations.univ-larochelle.fr/master-informatique-ingenierie-donnees#programme">Data Engineering</a> ❤️. I’m a Master’s student at the University of La Rochelle, recently finished M1 and preparing for M2.</h4>
 <img align="right" alt="Hey" width="400" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sondos20&label=Profile%20views&color=0e75b6&style=flat" alt="sondos20" /> </p>
 
-- 🌍 Currently intern at the <a href="https://l3i.univ-larochelle.fr/">L3i Laboratory</a>, tasked with analyzing and showcasing insights from La Rochelle University’s sustainable mobility surveys as part of the  <a href="https://bluebility.univ-lr.fr/">Bluebility project</a>. My role includes developing and integrating dynamic visualizations into the web site, using technologies like React and D3.js, and related technologies.
-
-- 👀 Actively looking for a <strong>data engineering</strong> or <strong>software development apprenticeship</strong> to contribute and grow within a dynamic team.  
+- 👀 Curious about data platforms, middleware, integration, and building robust solutions at the intersection of data and software. Always ready to share ideas, brainstorm, and connect with curious minds.
 
 - 📧 Reach me at: <strong>sondos.kocila@etudiant.univ-lr.fr</strong>
 
