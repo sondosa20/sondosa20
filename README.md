@@ -6,7 +6,7 @@
 
 <img align="right" alt="Hey" width="400" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
 
-🔧 **Working with:** Python · FastAPI · API Manager · REST & event-driven APIs (Kafka / RabbitMQ) · microservices · Docker · Kubernetes · Helm · ArgoCD · CI/CD · PostgreSQL
+🔧 **Working with:** Python · FastAPI · API Manager · REST & event-driven APIs · microservices · Docker · Kubernetes · Helm · ArgoCD · CI/CD · SQL
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sondos20&label=Profile%20views&color=0e75b6&style=flat" alt="sondos20" /> </p>
 
