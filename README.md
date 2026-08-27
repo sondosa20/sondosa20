@@ -1,14 +1,26 @@
 <h1 align="center">Hi 👋, I'm Sondos KOCILA</h1>
-<h4 align="center">Passionately exploring <a href="https://formations.univ-larochelle.fr/master-informatique-ingenierie-donnees#programme">Data Engineering</a> ❤️. I’m a Master’s student at the University of La Rochelle, recently finished M1 and preparing for M2.</h4>
+
+> **Data & Integration Engineer** · Python / FastAPI · API Manager · Kubernetes · CI/CD
+> Building the pipes and platforms where **data meets software** and making them reliable.
+
+🟢 **Open to work · immediately available** — based in Paris, mobile across France.
+
 <img align="right" alt="Hey" width="400" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
+
+🔧 **Working with:** Python · FastAPI · API Manager · REST & event-driven APIs (Kafka / RabbitMQ) · microservices · Docker · Kubernetes · Helm · ArgoCD · CI/CD · PostgreSQL
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sondos20&label=Profile%20views&color=0e75b6&style=flat" alt="sondos20" /> </p>
 
-- 👀 Curious about data platforms, middleware, integration, and building robust solutions at the intersection of data and software. Always ready to share ideas, brainstorm, and connect with curious minds.
+> During my apprenticeship as a **Middleware Engineer**, I built **Python/FastAPI microservices**, connected systems through an **API Manager**, designing REST and event-driven APIs and deploying.
 
-- 📧 Reach me at: <strong>sondos.kocila@etudiant.univ-lr.fr</strong>
+>I hold a Master's in **Data Engineering**, and I like sitting at the crossroads of data and integration — from managing the full **API lifecycle** to building end-to-end **MLOps pipelines**.
+
+>I care about the parts that make systems trustworthy: tests, monitoring, and clean, observable code.
 
 - ⚡Techie & Martial Artist: <strong>I hold a black belt in karate 🥋.  In the dojo I learned discipline, in coding I apply it daily.</strong>
+
+- 📧 Reach me at: [sondos.kocila2022@gmail.com](mailto:sondos.kocila2022@gmail.com)
+
 
 <h3 align="left">Let's connect!</h3>
 <p align="left">
@@ -59,3 +71,4 @@
   <img src="https://img.shields.io/badge/-Data%20Acquisition-lightgrey?style=flat" />
   <img src="https://img.shields.io/badge/-Association%20Rules-purple?style=flat" />
 </p>
+![Open to work](https://img.shields.io/badge/Open%20to%20Work-Immediately%20Available-brightgreen?style=flat-square)
