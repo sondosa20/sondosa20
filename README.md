@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sondos KOCILA</h1>
 
-> **Data & Integration Engineer** · Python / FastAPI · API Manager · Kubernetes · CI/CD
-> Building the pipes and platforms where **data meets software** and making them reliable.
+> **Data & Integration Engineer** 
 
 🟢 **Open to work · immediately available** — based in Paris, mobile across France.
 
@@ -17,7 +16,7 @@
 
 >I care about the parts that make systems trustworthy: tests, monitoring, and clean, observable code.
 
-- ⚡Techie & Martial Artist: <strong>I hold a black belt in karate 🥋.  In the dojo I learned discipline, in coding I apply it daily.</strong>
+- ⚡Techie & Martial Artist: I hold a black belt in karate 🥋.  In the dojo I learned discipline, in coding I apply it daily.
 
 - 📧 Reach me at: [sondos.kocila2022@gmail.com](mailto:sondos.kocila2022@gmail.com)
 
@@ -46,7 +45,6 @@
   <img src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/-Seaborn-4C6EB1?style=flat&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
@@ -71,4 +69,3 @@
   <img src="https://img.shields.io/badge/-Data%20Acquisition-lightgrey?style=flat" />
   <img src="https://img.shields.io/badge/-Association%20Rules-purple?style=flat" />
 </p>
-![Open to work](https://img.shields.io/badge/Open%20to%20Work-Immediately%20Available-brightgreen?style=flat-square)
