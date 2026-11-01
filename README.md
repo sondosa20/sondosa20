@@ -1,27 +1,31 @@
 <h1 align="center">Hi 👋, I'm Sondos KOCILA</h1>
 
-> **Data & Integration Engineer** 
+> **Software Engineer | Backend · APIs · Data/AI** 
 
 🟢 **Open to work · immediately available** — based in Paris, mobile across France.
 
 <img align="right" alt="Hey" width="400" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
 
-🔧 **Working with:** Python · FastAPI · API Manager · REST & event-driven APIs · microservices · Docker · Kubernetes · Helm · ArgoCD · CI/CD · SQL
+> I'm a Software Engineer, i enjoy building reliable software, data-driven applications, and making different systems work together.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sondos20&label=Profile%20views&color=0e75b6&style=flat" alt="sondos20" /> </p>
-
-> During my apprenticeship as a **Middleware Engineer**, I built **Python/FastAPI microservices**, connected systems through an **API Manager**, designing REST and event-driven APIs and deploying.
 
 >I hold a Master's in **Data Engineering**, and I like sitting at the crossroads of data and integration — from managing the full **API lifecycle** to building end-to-end **MLOps pipelines**.
 
 >I care about the parts that make systems trustworthy: tests, monitoring, and clean, observable code.
 
-- ⚡Techie & Martial Artist: I hold a black belt in karate 🥋.  In the dojo I learned discipline, in coding I apply it daily.
+- 💼 ENGIE IT — Middleware Developer (Apprenticeship): I was part of an amazing team responsible for middleware. I developed Python/FastAPI microservices, helped modernize legacy services, and worked on API security, testing, CI/CD, deployments, and monitoring. I also contributed to disaster recovery planning for critical applications.
+  
+- 🏆 1st Prize at AI4Industry 2026 — Built an AI solution with my team to analyze conversations for a MAIF use case.
+  
+- 🏅 WSO2 Certified — API Manager Developer & Micro Integrator Practitioner.
+  
+- ⚡Techie & Martial Artist: I hold a black belt in karate 🥋.  The discipline I learned in the dojo is something I bring to engineering: consistency, curiosity, and continuous improvement.
 
 - 📧 Reach me at: [sondos.kocila2022@gmail.com](mailto:sondos.kocila2022@gmail.com)
 
 
-<h3 align="left">Let's connect!</h3>
+<h3 align="left">Always happy to connect, exchange ideas, and explore new opportunities.</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sondoskocila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sondos kocila" height="30" width="40" /></a>
 
