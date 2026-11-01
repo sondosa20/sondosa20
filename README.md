@@ -6,24 +6,25 @@
 
 <img align="right" alt="Hey" width="400" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
 
-> I'm a Software Engineer, i enjoy building reliable software, data-driven applications, and making different systems work together.
+> I enjoy building reliable software, developing APIs, and making different systems work together.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sondos20&label=Profile%20views&color=0e75b6&style=flat" alt="sondos20" /> </p>
 
->I hold a Master's in **Data Engineering**, and I like sitting at the crossroads of data and integration — from managing the full **API lifecycle** to building end-to-end **MLOps pipelines**.
+>I hold a Master's in **Data Engineering**, my interests span backend development, system integration, and Data/AI. I care about writing clean, maintainable code and building software that's tested, observable, and reliable.
 
->I care about the parts that make systems trustworthy: tests, monitoring, and clean, observable code.
+🚀 A little about me
 
 - 💼 ENGIE IT — Middleware Developer (Apprenticeship): I was part of an amazing team responsible for middleware. I developed Python/FastAPI microservices, helped modernize legacy services, and worked on API security, testing, CI/CD, deployments, and monitoring. I also contributed to disaster recovery planning for critical applications.
   
-- 🏆 1st Prize at AI4Industry 2026 — Built an AI solution with my team to analyze conversations for a MAIF use case.
+- 💻 L3i Research Lab — Full-Stack Developer (Internship): I developed a data visualization application using React, TypeScript, Node.js, and MySQL.
+  
+- 🏆 1st Prize at AI4Industry 2026 — My team and I built an AI solution combining speech transcription and local language models to analyze conversations between MAIF advisors and policyholders.
   
 - 🏅 WSO2 Certified — API Manager Developer & Micro Integrator Practitioner.
   
 - ⚡Techie & Martial Artist: I hold a black belt in karate 🥋.  The discipline I learned in the dojo is something I bring to engineering: consistency, curiosity, and continuous improvement.
 
 - 📧 Reach me at: [sondos.kocila2022@gmail.com](mailto:sondos.kocila2022@gmail.com)
-
 
 <h3 align="left">Always happy to connect, exchange ideas, and explore new opportunities.</h3>
 <p align="left">
